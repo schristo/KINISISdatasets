@@ -1,0 +1,65 @@
+[
+  {
+    "lat": "35.134075",
+    "lng": "33.349503",
+    "sensorid": "1001",
+    "name": "Strovolos",
+    "veh_count": 7000,
+    "avg_speed": 50,
+    "avg_headway": 2.5
+  },
+  {
+    "lat": "35.111342",
+    "lng": "33.306285",
+    "sensorid": "1002",
+    "name": "Lakatamia",
+    "veh_count": 5000,
+    "avg_speed": 40,
+    "avg_headway": 1.0
+  },
+  {
+    "lat": "35.148867",
+    "lng": "33.391234",
+    "sensorid": "1003",
+    "name": "Aglantzia",
+    "veh_count": 4000,
+    "avg_speed": 80,
+    "avg_headway": 10.0
+  },
+  {
+    "lat": "35.072535",
+    "lng": "33.324139",
+    "sensorid": "1004",
+    "name": "Tseri",
+    "veh_count": 1000,
+    "avg_speed": 30,
+    "avg_headway": 2.0
+  },
+  {
+    "lat": "34.681417",
+    "lng": "33.027077",
+    "sensorid": "1005",
+    "name": "Limassol",
+    "veh_count": 5000,
+    "avg_speed": 70,
+    "avg_headway": 5.5
+  },
+  {
+    "lat": "34.914868",
+    "lng": "33.622635",
+    "sensorid": "1006",
+    "name": "Larnaka",
+    "veh_count": 4000,
+    "avg_speed": 70,
+    "avg_headway": 6.0
+  },
+  {
+    "lat": "34.990577",
+    "lng": "32.505707",
+    "sensorid": "0001",
+    "name": "Lysos",
+    "veh_count": 4000,
+    "avg_speed": 70,
+    "avg_headway": 6.0
+  }
+]
